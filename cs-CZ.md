@@ -8,11 +8,21 @@
 <tbody>
   <tr>
     <td>„Naléhavé hlášení! Jetbug zaútočil se svými ohnivými kumpány na základnu Tanker 22. Pokud ho nezastavíte, odletí se zásobami našeho paliva. Je totiž vybaven silnými tryskovými motory. Pozor na jeho ostrá klepeta! Nedovolte mu na startovat motory, jinak ho nikdy nechytíte!“</td>
-    <td>/ˈnalɛːɦavɛː ˈɦlaːʃɛɲiː ‖ ˈd͡ʒɛtbak ˈzauːtot͡ʃɪl sɛ ˈsviːmɪ ˈoɦnɪviːmɪ ˈkumpaːnɪ na ˈzaːkladnu ˈtaŋkɛr ˈdvat͡sɛt ˈdva ‖ ˈpokut ɦo ˈnɛzastaviːtɛ | ˈodlɛtiː sɛ ˈzaːsobamɪ ˈnaʃɛɦo ˈpalɪva ‖ jɛ ˈtotɪʃ ˈvɪbavɛn ˈsɪlɲiːmɪ ˈtrɪskoviːmɪ ˈmotorɪ ‖ ˈpozor na ˈjɛɦo ˈostraː ˈklɛpɛta ‖ ˈnɛdovoltɛ mu na ˈstartovat ˈmotorɪ | ˈjɪnak ɦo ˈɲɪkɟɪ ˈnɛxɪciːtɛ/</td>
+    <td>
+      <span class="IPA">/ˈnalɛːɦavɛː ˈɦlaːʃɛɲiː ‖ ˈd͡ʒɛtbak ˈzauːtot͡ʃɪl sɛ ˈsviːmɪ ˈoɦnɪviːmɪ ˈkumpaːnɪ na ˈzaːkladnu ˈtaŋkɛr ˈdvat͡sɛt ˈdva ‖ ˈpokut ɦo ˈnɛzastaviːtɛ | ˈodlɛtiː sɛ ˈzaːsobamɪ ˈnaʃɛɦo ˈpalɪva ‖ jɛ ˈtotɪʃ ˈvɪbavɛn ˈsɪlɲiːmɪ ˈtrɪskoviːmɪ ˈmotorɪ ‖ ˈpozor na ˈjɛɦo ˈostraː ˈklɛpɛta ‖ ˈnɛdovoltɛ mu na ˈstartovat ˈmotorɪ | ˈjɪnak ɦo ˈɲɪkɟɪ ˈnɛxɪciːtɛ/</span>
+    </td>
   </tr>
   <tr>
     <td>„Heslo Rudý postrach! Na základnu Tanker 22 pronikl Pán ohně, hrozivý vůdce Ohnivých zločinců. Se svou bandou horkých hlav kradou hrdinům palivo, aby jej použili do svých zbraní. Pozor, může vystřelit lávovou kouli nebo vyslat lávové plameny. Jeho lávoví brnění je prakticky neproniknutelné. Dejte si na něj obzvláště pozor!“</td>
-    <td>/ˈɦɛslo ˈrudiː ˈpostrax ‖ na ˈzaːkladnu ˈtaŋkɛr ˈdvat͡sɛt ˈdva ˈproɲɪkl̩ ˈpaːn ˈoɦɲɛ | ˈɦrozɪviː ˈvuːdt͡sɛ ˈoɦɲɪviː ˈzlot͡ʃɪnt͡suː ‖ sɛ ˈsvou ˈbandou ˈɦorkiːx ˈɦlaf ˈkradou ˈɦrɟɪnuːm ˈpalɪvo | abɪ jɛj ˈpouʒɪlɪ do ˈsviːx ˈzbraɲiː ‖ ˈpozor | ˈmuːʒɛ ˈvɪstr̝ɛlɪt ˈlaːvovou ˈkoulɪ ˈnɛbo ˈvɪslat ˈlaːvovɛː ˈplamɛɲɪ ‖ jɛɦo ˈlaːvoviː br̩ɲɛɲiː jɛ ˈpraktɪt͡skɪ ˈnɛproɲɪknutɛlnɛː ‖ ˈdɛjtɛ sɪ na ɲɛj ˈobzvlaːʃcɛ ˈpozor/</td>
+    <td>
+      <span class="IPA">/ˈɦɛslo ˈrudiː ˈpostrax ‖ na ˈzaːkladnu ˈtaŋkɛr ˈdvat͡sɛt ˈdva ˈproɲɪkl̩ ˈpaːn ˈoɦɲɛ | ˈɦrozɪviː ˈvuːdt͡sɛ ˈoɦɲɪviː ˈzlot͡ʃɪnt͡suː ‖ sɛ ˈsvou ˈbandou ˈɦorkiːx ˈɦlaf ˈkradou ˈɦrɟɪnuːm ˈpalɪvo | abɪ jɛj ˈpouʒɪlɪ do ˈsviːx ˈzbraɲiː ‖ ˈpozor | ˈmuːʒɛ ˈvɪstr̝ɛlɪt ˈlaːvovou ˈkoulɪ ˈnɛbo ˈvɪslat ˈlaːvovɛː ˈplamɛɲɪ ‖ jɛɦo ˈlaːvoviː br̩ɲɛɲiː jɛ ˈpraktɪt͡skɪ ˈnɛproɲɪknutɛlnɛː ‖ ˈdɛjtɛ sɪ na ɲɛj ˈobzvlaːʃcɛ ˈpozor/</span>
+    </td>
+  </tr>
+  <tr>
+    <td>„Poplach! Z Hero Factory uprchl ZUBATEC a skrývá se na vodní planetě Scylla. Díky silným čelistem, ploutvím ostrým jako břitva a magmatickými čepelemi je tam zcela ve svém živlu. Věříme ale, že dokážete tohoto přerostlého pulce spout at a přivést zpět do Hero Factory. Zlomte vaz!“</td>
+    <td>
+      <span class="IPA">/ˈpoplax ‖ zɛt ˈɦirou ˈfɛktorɪ ˈupr̩xl ˈzubatɛt͡s a ˈskriːvaː se na ˈvodɲiː ˈplanɛcɛ ˈskiːla ‖ ˈɟiːkɪ ˈsɪlɲiːm ˈt͡ʃɛlɪstɛm | ˈploutviːm ˈostriːm ˈjako ˈbr̝̊ɪtva a ˈmagmacɪt͡skiːmɪ ˈt͡ʃɛpelɛmɪ jɛ tam ˈst͡sɛla vɛ ˈsvɛːm ˈʒɪvlu ‖ ˈvjɛr̝̊iːmɛ alɛ | ʒɛ ˈdokaːʒɛtɛ ˈtoɦoto ˈpr̝ɛrostlɛːɦo ˈpult͡sɛ ˈspout at a ˈpr̝̊ɪvɛːst ˈspjɛt do ˈɦiːrou ˈfɛktorɪ ‖ ˈzlomte ˈvas/</span>
+    </td>
   </tr>
 </tbody>
 </table>
