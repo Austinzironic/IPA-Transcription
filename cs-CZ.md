@@ -19,10 +19,12 @@
     </td>
   </tr>
   <tr>
+    <td>„Dostavte se, FURNO! Zločincům se podařilo uprchnout černou dírou a potřebujeme vaše speciální schopnosti. Někteří si to míří rovnou do vody, takže máme štěstí, že máte k dispozici aqua raketový batoh, harpunu a plazmovou pušku. Jděte,po nich a spoutejte je pod hladinou!“</td>
+    <td>[dostaftɛ sɛ | furno ‖ zlot͡ʃɪnt͡suːm sɛ podar̝ɪlo upr̩xnou̯t t͡ʃɛrnou̯ ɟiːrou̯ apotr̝̊ɛbujɛmɛ vaʃɛ spɛt͡sɪaːlɲiː sxopnoscɪ ‖ ɲɛktɛr̝iː sɪ to miːr̝iː rovnou̯ do vodɪ | taɡʒɛ maːmɛ ʃcɛsciː | ʒɛ maːtɛ kɟɪspozɪt͡sɪ akva rakɛtoviː batox | ɦarpunu aplazmovou̯ puʃku ‖ jɟɛtɛ po ɲɪx aspou̯tɛjtɛ jɛ pot ɦlaɟɪnou̯]</td>
+  </tr>
+  <tr>
     <td>„Poplach! Z Hero Factory uprchl ZUBATEC a skrývá se na vodní planetě Scylla. Díky silným čelistem, ploutvím ostrým jako břitva a magmatickými čepelemi je tam zcela ve svém živlu. Věříme ale, že dokážete tohoto přerostlého pulce spout at a přivést zpět do Hero Factory. Zlomte vaz!“</td>
-    <td>
-      <span class="IPA">/ˈpoplax ‖ zɛt ˈɦirou ˈfɛktorɪ ˈupr̩xl ˈzubatɛt͡s a ˈskriːvaː se na ˈvodɲiː ˈplanɛcɛ ˈskiːla ‖ ˈɟiːkɪ ˈsɪlɲiːm ˈt͡ʃɛlɪstɛm | ˈploutviːm ˈostriːm ˈjako ˈbr̝̊ɪtva a ˈmagmacɪt͡skiːmɪ ˈt͡ʃɛpelɛmɪ jɛ tam ˈst͡sɛla vɛ ˈsvɛːm ˈʒɪvlu ‖ ˈvjɛr̝̊iːmɛ alɛ | ʒɛ ˈdokaːʒɛtɛ ˈtoɦoto ˈpr̝ɛrostlɛːɦo ˈpult͡sɛ ˈspout at a ˈpr̝̊ɪvɛːst ˈspjɛt do ˈɦiːrou ˈfɛktorɪ ‖ ˈzlomte ˈvas/</span>
-    </td>
+    <td>[poplax ‖ zɦiːrou̯ fɛktorɪ upr̩xl̩zubatɛt͡s askriːvaː sɛ na vodɲiː planɛcɛ skiːla ‖ ɟiːkɪ sɪlniːm t͡ʃɛlɪstɛm | plou̯tviːm ostriːm jako br̝ɪtva amaɡmacɪt͡skiːmɪ t͡ʃɛpɛlɛmɪ jɛ tam st͡sɛla vɛ svɛːm ʒɪvlu ‖ vjɛr̝iːmɛ alɛ | ʒɛ dokaːʒɛtɛ toɦoto pr̝̊ɛrostlɛːɦo pult͡sɛ spou̯t at apr̝̊ɪvɛːst spjɛt do ɦiːrou̯ fɛktorɪ ‖ zlomtɛ vas]</td>
   </tr>
   <tr>
     <td>Kopej hluboko s Onuou – Pánem země, abys získal tajemnou Zlatou masku! Tato odolná, vysoce pohyblivá figurka se čtyřmi zlatými krunýři BIONICLE® a drtící bojovou paží je plně vybavena pro podzemní boj s pavoukem-lebkounem. Zahrab se pod zem s turbo lopatami, zatímco budeš čelit snahám pavouka-lebkouna ukořistit Onuovu masku. Potom přeměň své turbo lopaty na kladivo zemětřesení, jediný nástroj schopný prorazit až ke Zlaté masce.</td>
