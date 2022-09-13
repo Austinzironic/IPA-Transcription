@@ -36,5 +36,9 @@
     <td>Probuď úžasnou živelnou moc Pohatu – Pána kamene, abys porazil pavouka-lebkouna! Připevni upravitelné Jeterangy k chodidlům této silné pohyblivé figurky BIONICLE® a vyleť do vzduchu. Jakmile najdeš pavouka-lebkouna, přeměň Jeterangy na dva obrovské Stormerangy a připrav se na boj o Zlatou masku kamene. Odolej všem pokusům o sejmutí Pohatuovy masky a aktivuj drtící bojovou paži, abys odpálil pavouka dostatečně daleko!</td>
     <td>/ˈprobuc ˈuːʒasnou ˈʒɪvɛlnou ˈmot͡s ˈpoɦatu | ˈpaːna ˈkamɛnɛ | abɪs ˈporazɪl ˈpavouka ˈlɛpkouna ‖ ˈpr̝̊ɪpɛvɲɪ ˈupravɪtɛlnɛː ˈd͡ʒɛtɛraŋgɪ k ˈxoɟidluːm ˈtɛto ˈsɪlnɛː ˈpoɦɪblɪvɛː ˈfɪgurkɪ ˈbaɪoɲɪkl̩ a ˈvɪlɛc do ˈfzduxu ‖ ˈjakmɪlɛ ˈnajdɛʃ ˈpavouka ˈlɛpkouna | ˈpr̝̊emɲɛɲ ˈd͡ʒɛtɛraŋgɪ na ˈdva ˈobrovskɛː ˈstormɛraŋgɪ a ˈpr̝̊ɪpraf sɛ na ˈboj o ˈzlatou ˈmasku ˈkamɛnɛ ‖ ˈodolɛj ˈfʃɛm ˈpokusuːm o ˈsɛjmuciː ˈpoɦatuovɪ ˈmaskɪ a ˈakcɪvuj ˈdr̩ciːt͡siː ˈbojovou ˈpaʒɪ | abɪs ˈotpaːlɪl ˈpavouka ˈdostatɛt͡ʃɲɛ ˈdalɛko/</td>
   </tr>
+  <tr>
+    <td>Rozpal akci BIONICLE® za pomoci Tahu – Pána ohně! Připevni lávový surf k chodidlům této mocné pohyblivé figurky a surfuj do kráteru sopky s pořádnou dávkou adrenalinu. Poté proměň surf na dvě ohnivé čepele připravené k boji. Aktivuj mlátící bojovou paži, abys překazil pokusy pavouka-lebkouna sundat Tahuovu masku a dostaň se první k magické Zlaté masce.</td>
+    <td>[rospal akt͡sɪ baɪoɲɪkl̩ za pomot͡sɪ taɦu | paːna oɦɲɛ ‖ pr̝̊ɪpɛvɲɪ laːvoviː surf kxoɟɪdluːm tɛːto mot͡snɛː poɦɪblɪvɛː fɪɡurkɪ asurfuj do kraːtɛru sopkɪ spor̝aːdnou̯ daːfkou̯ adrɛnalɪnu ‖ potɛː promɲɛɲ surf na dvjɛ oɦɲɪvɛː t͡ʃɛpɛlɛ pr̝̊ɪpravɛnɛː ɡbojɪ ‖,akcɪvuj mlaːciːt͡siː bojovou̯ paʒɪ | abɪs pr̝̊ɛkazɪl pokusɪ pavou̯ka lɛpkou̯na sundat taɦuovu masku adostaɲ sɛ pr̩vɲiː kmaɡɪt͡skɛː zlatɛː mast͡sɛ]</td>
+  </tr>
 </tbody>
 </table>
