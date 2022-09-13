@@ -19,8 +19,8 @@
     </td>
   </tr>
   <tr>
-    <td>„Dostavte se, FURNO! Zločincům se podařilo uprchnout černou dírou a potřebujeme vaše speciální schopnosti. Někteří si to míří rovnou do vody, takže máme štěstí, že máte k dispozici aqua raketový batoh, harpunu a plazmovou pušku. Jděte,po nich a spoutejte je pod hladinou!“</td>
-    <td>[dostaftɛ sɛ | furno ‖ zlot͡ʃɪnt͡suːm sɛ podar̝ɪlo upr̩xnou̯t t͡ʃɛrnou̯ ɟiːrou̯ apotr̝̊ɛbujɛmɛ vaʃɛ spɛt͡sɪaːlɲiː sxopnoscɪ ‖ ɲɛktɛr̝iː sɪ to miːr̝iː rovnou̯ do vodɪ | taɡʒɛ maːmɛ ʃcɛsciː | ʒɛ maːtɛ kɟɪspozɪt͡sɪ akva rakɛtoviː batox | ɦarpunu aplazmovou̯ puʃku ‖ jɟɛtɛ po ɲɪx aspou̯tɛjtɛ jɛ pot ɦlaɟɪnou̯]</td>
+    <td>„Dostavte se, FURNO! Zločincům se podařilo uprchnout černou dírou a potřebujeme vaše speciální schopnosti. Někteří si to míří rovnou do vody, takže máme štěstí, že máte k dispozici aqua raketový batoh, harpunu a plazmovou pušku. Jděte, po nich a spoutejte je pod hladinou!“</td>
+    <td>[dostaftɛ sɛ | furno ‖ zlot͡ʃɪnt͡suːm sɛ podar̝ɪlo upr̩xnou̯t t͡ʃɛrnou̯ ɟiːrou̯ apotr̝̊ɛbujɛmɛ vaʃɛ spɛt͡sɪaːlɲiː sxopnoscɪ ‖ ɲɛktɛr̝iː sɪ to miːr̝iː rovnou̯ do vodɪ | taɡʒɛ maːmɛ ʃcɛsciː | ʒɛ maːtɛ kɟɪspozɪt͡sɪ akva rakɛtoviː batox | ɦarpunu aplazmovou̯ puʃku ‖ jɟɛtɛ | po ɲɪx aspou̯tɛjtɛ jɛ pot ɦlaɟɪnou̯]</td>
   </tr>
   <tr>
     <td>„Poplach! Z Hero Factory uprchl ZUBATEC a skrývá se na vodní planetě Scylla. Díky silným čelistem, ploutvím ostrým jako břitva a magmatickými čepelemi je tam zcela ve svém živlu. Věříme ale, že dokážete tohoto přerostlého pulce spout at a přivést zpět do Hero Factory. Zlomte vaz!“</td>
