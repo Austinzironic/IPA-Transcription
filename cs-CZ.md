@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>Rozpal akci BIONICLE® za pomoci Tahu – Pána ohně! Připevni lávový surf k chodidlům této mocné pohyblivé figurky a surfuj do kráteru sopky s pořádnou dávkou adrenalinu. Poté proměň surf na dvě ohnivé čepele připravené k boji. Aktivuj mlátící bojovou paži, abys překazil pokusy pavouka-lebkouna sundat Tahuovu masku a dostaň se první k magické Zlaté masce.</td>
-    <td>[rospal akt͡sɪ baɪoɲɪkl̩ za pomot͡sɪ taɦu | paːna oɦɲɛ ‖ pr̝̊ɪpɛvɲɪ laːvoviː surf kxoɟɪdluːm tɛːto mot͡snɛː poɦɪblɪvɛː fɪɡurkɪ asurfuj do kraːtɛru sopkɪ spor̝aːdnou̯ daːfkou̯ adrɛnalɪnu ‖ potɛː promɲɛɲ surf na dvjɛ oɦɲɪvɛː t͡ʃɛpɛlɛ pr̝̊ɪpravɛnɛː ɡbojɪ ‖,akcɪvuj mlaːciːt͡siː bojovou̯ paʒɪ | abɪs pr̝̊ɛkazɪl pokusɪ pavou̯ka lɛpkou̯na sundat taɦuovu masku adostaɲ sɛ pr̩vɲiː kmaɡɪt͡skɛː zlatɛː mast͡sɛ]</td>
+    <td>[rospal akt͡sɪ baɪoɲɪkl̩ za pomot͡sɪ taɦu | paːna oɦɲɛ ‖ pr̝̊ɪpɛvɲɪ laːvoviː surf kxoɟɪdluːm tɛːto mot͡snɛː poɦɪblɪvɛː fɪɡurkɪ asurfuj do kraːtɛru sopkɪ spor̝aːdnou̯ daːfkou̯ adrɛnalɪnu ‖ potɛː promɲɛɲ surf na dvjɛ oɦɲɪvɛː t͡ʃɛpɛlɛ pr̝̊ɪpravɛnɛː ɡbojɪ ‖ akcɪvuj mlaːciːt͡siː bojovou̯ paʒɪ | abɪs pr̝̊ɛkazɪl pokusɪ pavou̯ka lɛpkou̯na sundat taɦuovu masku adostaɲ sɛ pr̩vɲiː kmaɡɪt͡skɛː zlatɛː mast͡sɛ]</td>
   </tr>
 </tbody>
 </table>
